@@ -1,4 +1,11 @@
 h1 {
     text-align: center;
     color: red;
+    font-family: Impact, sans-serif;
+    letter-spacing: 1px;
+    font-weight: normal;
+}
+
+p {
+    font-family: sans-serif;
 }
